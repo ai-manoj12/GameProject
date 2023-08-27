@@ -1,0 +1,89 @@
+Welcome to MusiMania! This is a game focused on teaching you
+how to read music and play the piano! These instructions will
+guide you through reading notes on the staff, identifying
+notes on the piano keyboard, and then playing those notes
+using your computer keyboard! Piano is a fun instrument to play,
+and learning it is also a great way to become integrated
+in the world of classical music and get to know other instruments as
+well!
+
+Precursory Information:
+Let's start off with clefs. In the game, you will see both the Bass Clef
+and the Treble Clef on the music staff. The note names are listed on
+the images below. For this game you only need to be able to identify the notes
+from E on the bass cleff to G on the treble clef. When you play notes on the Bass
+Clef you will play them with your left hand, and when you play notes on the Treble Clef you will 
+play them with your right hand. Look at these images of the clefs and labeled note names,
+and try to memorize which notes are at which locations on the clefs.
+This will make gameplay easier for you, and remember you can always
+check out these instructions during gameplay as well. This game will 
+teach you to read and play notes on the piano, so there are a lot of 
+different skills being used. You have to read the correct notes, 
+know where they're located on the piano keyboard, and then play them!
+
+
+How to Play:
+
+                               Each game is comprised of an infinite number of levels, and each level
+contains five stages. The level you are on is indicated by the LV count
+and your stage number is indicated by the Stage count, both of these
+are located at the right of your panel during the game. Each stage
+provides a new sequence of notes for you to play. The first level
+includes notes only in treble clef, the second has only bass clef, and
+from level three and up the notes can be from either clef. You are given
+60 seconds to complete each stage in levels 1,2, and 3. From Level 4 and
+onwards, you are given less time per level. The time you have left to
+complete a stage is indicated by the timer at the right of your game panel.
+When you complete a stage, you gain 10 points. You gain 20 points for
+every level you complete. The blue note is indicating which note you have
+to play next. You must play the blue note in order to move on to the
+next note in the sequence.
+
+If you do not play all of the notes in the sequence before time is up.
+You lose the stage. When you lose a stage for the first time in one game,
+you are brought to a quiz based around classical music, musicians, and musical instruments.
+There are 5 questions in the quiz, and if you get 3 or more right, you will
+be able to resume your game! If you resume your game, you will not receive
+the points for the stage you lost, but you will be automatically bumped
+up to the next stage (so you've essentially skipped the stage you lost).
+
+The second time you are unable to play your sequence in time, your game is over!
+
+When you lose a stage, the game will tell you what note you were stuck
+on and how to play it, because learning from your mistakes is what helps
+you become a better musician!
+
+If you get less than 3 questions right on your quiz, you lose your game
+and your score when you lost your stage will be your final score.
+
+If your score is higher than the fifth place score on the leaderboard, your name could make it on the rankings,
+so don't give up!
+
+
+Game Controls:
+
+When you press a start button, a new game will begin. Any time you press
+a quit button, your game will be over and you will not receive a score.
+You can not save your progress in one game, so please be mindful of that
+if you decide to quit your game. Use your computer keyboard in order to play
+the notes on your game! There is a piano keyboard at the bottom of the screen
+during the game that you can use as reference. Each key on your computer keyboard
+corresponds to a key on the piano, so press the key that corresponds to the note you want to
+play! If you press the "More" menu at the bottom right of the game you can either
+select "Help" or "Quit." The quit menu option will allow you to quit your
+game and return to the pink start screen. If you select the "Help" option
+you'll be able to read these instructions again! So make sure to use
+the "Help" option whenever you need a reminder on how to read notes
+or control the game! The stage timer pauses each time you get help, and
+it only resumes when you return to your game (using the "Return to Game"
+button). This means that you don't lose any valuable time!
+
+
+Quiz Controls:
+When you play a quiz, you can only hit submit once you've selected an
+answer choice. Once you submit your answer you can not change it, and the
+quiz will tell you whether or not you got the question correct. Press the
+"Next" button in order to move on to the next question.
+
+Now that you've read through the instructions, you're all set to play!
+Good luck! You'll do great! Now let's play some music!

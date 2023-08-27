@@ -1,0 +1,22 @@
+Credits:
+Bairagi, Tanmay, et al. “How to Set Opacity on JPanel?” Stack Overflow, 11 Jun. 2017. Accessed 23 Apr. 2020.
+C, Stephen, et al. “What Does a ‘Cannot Find Symbol’ or ‘Cannot Resolve Symbol’ Error Mean?” Stack Overflow, 7 Sept. 2014. Accessed 26 Apr. 2020.
+Cazaubon, Mantius. “The Grand Staff: Treble and Bass Staves and Piano Keyboard.” Piano Keyboard Guide. Accessed 12 May 2020.
+Cellania, Miss. “8 Unusually Large Musical Instruments.” Mental Floss, 17 Nov. 2015. Accessed 10 May 2020.
+“Class Insets.” Java™ Platform, Standard Edition 7 API Specification. Java Platform SE 7, Oct. 2018. Accessed 3 May 2020.
+Conlin, John. CountDownTimer.java. 20 Apr. 2020. Digital. Accessed 20 Apr. 2020.
+Conlin, John. “Drawing JPEG Image of Staff onto SheetMusicPanel.java.” 24 Apr. 2020.
+Conlin, John. “Getting a JTextArea to Resize.” 13 May 2020.
+Conlin, John “Making repaint() Work when I Call the Method that is Used to Set Up a Timer From the StartPanel Class.” 27 Apr. 2020.
+Conlin, John and Iyer, Vishruth. “Using the KeyListener Interface and a Timer on The Same Panel Without Delays Due to Changes in Focus.” 28 Apr. 2020.
+DeRuiter, Scott. GameModuleFiles.java. 8 Apr. 2020. Digital. Accessed 12 Apr. 2020.
+DeRuiter, Scott. TakeOut.java. 30 Mar. 2020. Digital. Accessed 12 Apr. 2020.
+Flack, Steve. “What Is the World's Loudest Instrument?” Liverpool Academy of Music. Accessed 1 May 2020.
+“Free Printable Manuscript Paper from MakingMusicFun.net” MakingMusicFun.net - Sheet Music, Lesson Plans & Composer Resources. Accessed 25 Apr. 2020.
+rookie, et al. “Java's DO_NOTHING_ON_CLOSE.” Stack Overflow, 24 Nov. 2010. Accessed 23 Apr. 2020.
+Scott DeRuiter. “GameModuleFiles1.” Online video clip. Youtube, 8 Apr. 2020. Web. Accessed 12 Apr. 2020. 
+Scott DeRuiter. “GameModuleFiles2.” Online video clip. Youtube, 8 Apr. 2020. Web. Accessed 12 Apr. 2020. 
+Scott DeRuiter. “TakeOut.” Online video clip. Youtube, 31 Mar. 2020. Web. Accessed 12 Apr. 2020. 
+vidhya, et al. “Exception in Thread ‘AWT-EventQueue-0’ Java.lang.NumberFormatException: For Input String:" ".” Stack Overflow, 16 May 2012. Accessed May 6 2020.
+Vincent Aliquo. “Java How To: Adding scrollbars to your program.” Online video clip. YouTube, 17 Sep. 2014. Web. Accessed 20 Apr. 2020.
+
